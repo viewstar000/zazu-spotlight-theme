@@ -1,0 +1,6 @@
+{
+  "name": "zazu-spotlight-thtme",
+  "version": "1.0.0",
+  "description": "spotlight like theme forked from https://github.com/Eric-Jackson/zazu-clement-theme",
+  "stylesheet": "src/main.css"
+}
